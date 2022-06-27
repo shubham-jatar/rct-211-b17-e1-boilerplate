@@ -11,7 +11,9 @@ const Navbar = () => {
           style={{ display: "block" }}
         />
       </div>
-      <div></div>
+      <div>
+    <h1>Navbar</h1>
+      </div>
     </div>
   );
 };
